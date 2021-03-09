@@ -1,7 +1,7 @@
 # Apps
 
 Require :
->> android 4.4 +
+>> android 5.1 +
 
 How to install :
 
